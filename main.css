@@ -101,6 +101,7 @@ body {
         width:19%;
         height: max-content;
         margin-right: 0;
+        border-radius: 5px 0 0 5px;
  
     }
 
@@ -109,6 +110,7 @@ body {
         width:19%;
         height: max-content;
         margin: 0;
+        
        
     }
 
@@ -117,6 +119,7 @@ body {
         width:19%;
         height: max-content;
         margin-left: 0;
+        border-radius: 0 5px 5px 0;
         
     }
     .btn-learn {
